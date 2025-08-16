@@ -1,12 +1,15 @@
 [submodule "news-explorer"]
 	path = news-explorer
 	url = https://github.com/joja-peaches/news-explorer.git
+	branch = main
 [submodule "TravelLog"]
 	path = TravelLog
 	url = https://github.com/DGOOD-15/TravelLog.git
+	branch = main
 [submodule "se_project_react"]
 	path = se_project_react
 	url = https://github.com/joja-peaches/se_project_react.git
+	branch = main
 [submodule "se_project_spots"]
 	path = se_project_spots
 	url = https://github.com/joja-peaches/se_project_spots.git
