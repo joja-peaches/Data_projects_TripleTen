@@ -10,3 +10,6 @@
 [submodule "se_project_spots"]
 	path = se_project_spots
 	url = https://github.com/joja-peaches/se_project_spots.git
+[submodule "se_project_todo-app"]
+	path = se_project_todo-app
+	url = https://github.com/joja-peaches/se_project_todo-app.git
